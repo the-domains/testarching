@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: What we do for you
+    id: 8ffe6a0e-14dd-4f36-b77a-27a4014a3d28
+    type: content
 favicon: null
 title: Your Property Finder in Italy
 description: '#technicalsupport #searchyourhome #villas #flattobuy #italyluxurylocation'
