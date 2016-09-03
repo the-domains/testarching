@@ -1,17 +1,19 @@
 ---
-datePublished: '2016-08-31T15:42:45.590Z'
+datePublished: '2016-08-31T15:43:20.447Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T15:41:57.203Z'
+dateModified: '2016-08-31T15:43:18.329Z'
 title: What we do for you
 publisher: {}
 description: >-
   Are you looking for your new estate in Italy and would you like to find it
   without boring search on the web?
-starred: false
 sourcePath: _posts/2016-08-31-what-we-do-for-you.md
-_type: Blurb
+hasPage: true
+starred: false
+url: what-we-do-for-you/index.html
+_type: Article
 
 ---
 # What we do for you
