@@ -1,34 +1,139 @@
-typography_spectrum: 0.7597507396712899
+typography_spectrum: 0.23063352885259555
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.024978345958516
-  lightness: 0.36766347917728126
-  saturation: 0.26768626109696925
-  rhythmicContrast: 0.509358010487631
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  brandStrength: 0.6848168205291881
+  lightness: 0.7188760069672866
+  saturation: 0.5384723410643821
+  rhythmicContrast: 0.36606101987616035
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.3820844329893589
+layout_spectrum: 0.29297388534227586
 analytics:
   google: null
   facebook: null
-  twitter: null
-name: MyArchingAbroad
+  twitter: Ing. Massimiliano Lusetti
+author:
+  name: Archingstudio.org
+  email: max.lusetti@archingstudio.org
+  url: 'https://www.archingstudio.org'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/65ac00ed-fc5f-42bb-aa7a-b2526515ed7d.png
+name: PROPERTYFINDER ENG
+url: 'https://myarching.link'
 cta:
   domain: null
   bucket: null
   version: null
 navigation:
+  - name: In Italiano
+    url: 'http://ita.myarching.link'
+    type: external
   - name: What we do for you
     id: 8ffe6a0e-14dd-4f36-b77a-27a4014a3d28
     type: content
-favicon: null
+  - name: About Our Services
+    id: d1f1b5e6-320e-417e-a345-037ec04f478c
+    type: content
+  - name: Describe your Dream
+    id: 1dd846e8-b582-4624-b00b-59c47606a1c8
+    type: content
+  - name: Search and Purchase
+    id: 1dcfbac9-43b6-4787-8543-3e2dfe5a0c52
+    type: content
+  - name: MyArching Blog
+    url: 'http://myarching.blogspot.it/'
+    type: external
+  - name: Costumer care
+    url: 'http://costumer.myarching.link/'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d731eee-99dc-4fed-857b-b7bcccb98443.jpg
 title: Your Property Finder in Italy
-description: '#technicalsupport #searchyourhome #villas #flattobuy #italyluxurylocation'
-purpose: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FHibg1BvD188%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHibg1BvD188&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FHibg1BvD188%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      datePublished: null
+      isBasedOnUrl: 'https://youtu.be/Hibg1BvD188'
+      keywords:
+        - ''
+      related: []
+      author:
+        - name: Max Lusetti
+          url: 'https://www.youtube.com/user/archingstudio1'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: ARCHINGSTUDIO.ORG
+      '@type': VideoObject
+      app_links:
+        - url: 'vnd.youtube://www.youtube.com/watch?v=Hibg1BvD188&feature=applinks'
+          type: ios
+          namespace: ai
+          app_store_id: '544007664'
+          app_name: YouTube
+        - url: 'vnd.youtube://www.youtube.com/watch?v=Hibg1BvD188&feature=applinks'
+          type: android
+          namespace: ai
+          app_name: YouTube
+          package: com.google.android.youtube
+        - url: 'https://www.youtube.com/watch?v=Hibg1BvD188&feature=applinks'
+          type: web
+          namespace: ai
+        - url: 'vnd.youtube://www.youtube.com/watch?v=Hibg1BvD188&feature=applinks'
+          namespace: twitter
+          type: ipad
+          name: YouTube
+          id: '544007664'
+        - url: 'vnd.youtube://www.youtube.com/watch?v=Hibg1BvD188&feature=applinks'
+          namespace: twitter
+          type: iphone
+          name: YouTube
+          id: '544007664'
+        - url: 'https://www.youtube.com/watch?v=Hibg1BvD188'
+          namespace: twitter
+          type: googleplay
+          name: YouTube
+          id: com.google.android.youtube
+        - path: http/www.youtube.com/watch?v=Hibg1BvD188
+          package: com.google.android.youtube
+          namespace: google
+          type: android
+        - path: vnd.youtube/www.youtube.com/watch?v=Hibg1BvD188
+          package: '544007664'
+          namespace: google
+          type: ios
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/ringo/img/favicon-vfl8qSV2F.ico'
+        domain: youtu.be
+      description: >-
+        Video ufficiale del sito (gestito con licenza wix) per condivisione su
+        altri siti collegati archingstudio. - collegamento a sito Archingstudio
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: >-
+  We search, design, renovate and then manage your property to give you only the
+  advantages of owning your house in Italy
+purpose:
+  - type: contact
+    url: 'mailto:max.lusetti@archingstudio.org'
+    label: Contact us
+  - type: external
+    url: 'http://massimiliano.lusetti.mtalk.net'
+    label: call us on the web
+github: true
