@@ -1,8 +1,9 @@
 ---
 title: Search and Purchase
-datePublished: '2018-02-11T10:18:58.567Z'
-dateModified: '2018-02-11T10:18:56.308Z'
-publisher: {}
+datePublished: '2018-02-11T10:22:09.193Z'
+dateModified: '2018-02-11T10:22:05.377Z'
+publisher:
+  name: Max Lusetti
 author: []
 inFeed: false
 hasPage: true
@@ -19,6 +20,7 @@ _type: Blurb
 
 ---
 # Search and Purchase
+![Sea and quite in your private pool](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c86c11f-ef7e-4dfd-be12-c10b71072d16.jpg)
 
 ## Main feature of services
 
@@ -64,7 +66,8 @@ Fee it is quantified on the size of the estate you are looking for. Quotation ar
 
 ## Payments
 
-When you receive our invoice you can pay us using Satispay ( click on the link below), or a credit card linked in the invoice or by money transfer through your bank account. [Satispay][1]
+When you receive our invoice you can pay us using Satispay ( click on the link below), or a credit card linked in the invoice or by money transfer through your bank account.
+[Satispay][1]
 
 [0]: https://thegrid.ai/testarching/1dd846e8-b582-4624-b00b-59c47606a1c8
 [1]: https://tag.satispay.com/MyArching
