@@ -1,21 +1,39 @@
 ---
 inFeed: true
 description: >-
-  L’edificio si sviluppa su tre livelli, Originariamente al piano terra era
-  localizzata una cantina e ai piani superiori era presente un unico alloggio
-  con accesso dal terrazzo su via terraglie. Nella proprietà è incluso un
-  giardino con la parte alta pianeggiante e una parte a fasce che degrada verso
-  la strada carrabile sottostante.
-dateModified: '2018-08-13T08:39:23.561Z'
-datePublished: '2018-08-13T08:39:23.979Z'
+  The building is on three levels, originally a cellar was located on the ground
+  floor and on upper floors there was a flat with access from the terrace open
+  to via terraglie. The property includes a garden with upper part flat and a
+  part with strips that slopes towards the driveway below.
+
+
+  There are several superfetations that distort the appearance of the building.
+  A balcony with a very heavy and invasive concrete structure where the first
+  floor bathroom was built. The reinforced concrete structure has also caused
+  damage to the historical wall structure due to the different flexibility and
+  behavior on seismic actions.
+
+
+  The project, as well as solving some distribution problems involves the
+  demolition of not congruent additions made during past times and brings the
+  building back to its ancient shape. The project recovers the demolished
+  volumes by inserting an external open wood made staircase in the headboard 
+  that allows you to have small balconies on each floor and at the same time
+  remodel in a congruous manner the shape of the building creating three
+  independent suites.
+
+
+  Design by Flavio De Stasio:
+dateModified: '2018-08-13T08:49:02.666Z'
+datePublished: '2018-08-13T08:49:05.196Z'
 title: 'L’AGOrà: Edificio 36'
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2018-08-12-lagora-edificio-36.md
 hasPage: true
-datePublishedOriginal: '2018-08-13T08:39:23.979Z'
 starred: false
+datePublishedOriginal: '2018-08-13T08:39:23.979Z'
 url: lagora-edificio-36/index.html
 _type: Article
 
@@ -25,13 +43,10 @@ _type: Article
 
 ## Descrizione Progetto
 
-L'edificio si sviluppa su tre livelli, Originariamente al piano terra era localizzata una cantina e ai piani superiori era presente un unico alloggio con accesso dal terrazzo su via terraglie. Nella proprietà è incluso un giardino con la parte alta pianeggiante e una parte a fasce che degrada verso la strada carrabile sottostante.
-
-Esistono diverse superfetazioni che ne snaturano la fisionomia dell'immobile. Un balcone con struttura in calcestruzzo molto pesante e invasiva e sempre su questa struttura aggiunta insistono alcuni locali bagno e disimpegno condonati ma che rendono la struttura poco sfruttabile. La struttura in cemento armato ha inoltre provocato lesioni alla struttura muraria storica proprio per la diversa flessibilità e comportamento alle azioni sismiche.
-
-Il progetto, oltre che risolvere alcuni problemi distributivi prevede la demolizione delle aggiunte incongruenti fatte durante il tempo e riporta il fabbricato alla sua antica forma. Il progetto recupera i volumi demoliti inserendo una scala a giorno esterna in testata realizzata in legno che permette di avere piccoli balconcini ad ogni piano e al contempo rimodelal in modo congruo la forma del fabbricato.
-
-Qui di seguito il progetto che è curato dall'Arch. Flavio De Stasio:
+The building is on three levels, originally a cellar was located on the ground floor and on upper floors there was a flat with access from the terrace open to via terraglie. The property includes a garden with upper part flat and a part with strips that slopes towards the driveway below.
+There are several superfetations that distort the appearance of the building. A balcony with a very heavy and invasive concrete structure where the first floor bathroom was built. The reinforced concrete structure has also caused damage to the historical wall structure due to the different flexibility and behavior on seismic actions.
+The project, as well as solving some distribution problems involves the demolition of not congruent additions made during past times and brings the building back to its ancient shape. The project recovers the demolished volumes by inserting an external open wood made staircase in the headboard that allows you to have small balconies on each floor and at the same time remodel in a congruous manner the shape of the building creating three independent suites.
+Design by Flavio De Stasio:
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/82a416b223dc3929a224d7ddd8c2ee83958e67e0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe53e3ec-d42d-45f2-9fd4-3007c60d470f.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b7968e1d103022466ea20d0fc25dcb970c45938.jpg)
