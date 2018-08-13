@@ -6,8 +6,8 @@ description: >-
   money in some building that are going to be restored and from which it is
   possible to cover your holiday expences. For more information on global
   project you can look at L’AGOrà page.
-dateModified: '2018-08-13T08:18:34.884Z'
-datePublished: '2018-08-13T08:18:36.414Z'
+dateModified: '2018-08-13T08:55:53.896Z'
+datePublished: '2018-08-13T08:55:56.049Z'
 title: L’AGOrà - resort is coming up
 author:
   - name: MyArching / Massimiliano Lusetti Ingegnere
@@ -38,4 +38,4 @@ In this section we will show you information about buildings at L'Ago that will 
 ![The owner of this building  has 6  bed at  his disposal a large private garden with an external private jacuzi. Each floor has independent  access and It is possible to  rent junior suite  for the spread hotel when are not needed form the owner and his guests](https://the-grid-user-content.s3-us-west-2.amazonaws.com/94965086-086b-4794-b6c7-72d2266b94c4.png)
 
 [0]: http://investitori.lago.property/ "L'AGOrà"
-[1]: http://ita.myarching.link/lagora-edificio-36
+[1]: http://myarching.link/lagora-edificio-36
