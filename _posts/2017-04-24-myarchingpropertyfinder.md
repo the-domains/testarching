@@ -12,15 +12,16 @@ publisher:
 keywords: []
 description: Uploaded by MyArching / Massimiliano Lusetti Ingegnere on 2018-06-05.
 app_links: []
-isBasedOnUrl: 'http://myarching.blogspot.com/'
 title: MyArching Blog
-datePublished: '2018-08-13T07:51:04.352Z'
-dateModified: '2018-08-13T07:51:02.021Z'
+datePublished: '2018-08-13T07:52:21.628Z'
+dateModified: '2018-08-13T07:52:19.463Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-24-myarchingpropertyfinder.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-04-24T09:55:02.757Z'
+url: myarching-blog/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
