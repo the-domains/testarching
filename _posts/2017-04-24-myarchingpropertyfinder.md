@@ -9,16 +9,15 @@ publisher:
 keywords: []
 description: 'Our Blog Where you can find suggestion and sustain to your  search criteria '
 app_links: []
+isBasedOnUrl: 'http://myarching.blogspot.com/'
 title: Blog
-datePublished: '2018-08-13T07:26:47.404Z'
-dateModified: '2018-08-13T07:26:45.220Z'
+datePublished: '2018-08-13T07:29:58.285Z'
+dateModified: '2018-08-13T07:29:56.204Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-24-myarchingpropertyfinder.md
-hasPage: true
 starred: false
 datePublishedOriginal: '2017-04-24T09:55:02.757Z'
-url: blog/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
@@ -30,4 +29,4 @@ _type: MediaObject
 ![A place where dreaming is coming a true reality](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e2fd584-8a8f-4e80-aad6-9020f4e5812b.jpg)
 [L'AGOrà Project][0]
 
-[0]: http://ita.myarching.link/lagora-lalbergo-arrivera
+[0]: http://myarching.link/lagora-lalbergo-arrivera
