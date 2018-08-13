@@ -19,8 +19,8 @@ description: >-
   are presented data, plan and other information of buildings partecipating to
   the project; click on the links to discover them. As the project improves you
   will find more information about each building and new buildings added.
-dateModified: '2018-08-13T07:30:18.573Z'
-datePublished: '2018-08-13T07:30:20.628Z'
+dateModified: '2018-08-13T07:30:59.859Z'
+datePublished: '2018-08-13T07:31:01.965Z'
 title: L’AGOrà - resort is coming up
 author:
   - name: MyArching / Massimiliano Lusetti Ingegnere
