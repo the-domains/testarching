@@ -10,11 +10,13 @@ publisher:
   favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
   domain: youtu.be
 keywords: []
-description: Uploaded by MyArching / Massimiliano Lusetti Ingegnere on 2018-06-05.
+description: >-
+  Suggestions and information on how to invest in Italy and on our ongoing
+  projects
 app_links: []
 title: MyArching Blog
-datePublished: '2018-08-13T07:52:21.628Z'
-dateModified: '2018-08-13T07:52:19.463Z'
+datePublished: '2018-08-13T08:37:32.144Z'
+dateModified: '2018-08-13T08:37:30.059Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-24-myarchingpropertyfinder.md
@@ -27,10 +29,14 @@ _type: MediaObject
 
 ---
 # MyArching Blog
+
+Suggestions and information on how to invest in Italy and on our ongoing projects
+
+## 2018 - August
 [L'AGOrà Project][0]
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FOEqKtgdgDj0%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOEqKtgdgDj0&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FOEqKtgdgDj0%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="true" style=""></iframe>
 
-
+Our real estate revaluation project to allow you to invest in your holidays and profit from them.
 
 [0]: http://myarching.link/lagora-lalbergo-arrivera
