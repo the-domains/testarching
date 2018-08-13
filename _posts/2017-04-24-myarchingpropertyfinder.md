@@ -11,8 +11,8 @@ description: 'Our Blog Where you can find suggestion and sustain to your  search
 app_links: []
 isBasedOnUrl: 'http://myarching.blogspot.com/'
 title: MyArching Blog
-datePublished: '2018-08-13T07:46:31.781Z'
-dateModified: '2018-08-13T07:46:29.430Z'
+datePublished: '2018-08-13T07:47:06.539Z'
+dateModified: '2018-08-13T07:47:04.443Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-24-myarchingpropertyfinder.md
