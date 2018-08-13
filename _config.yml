@@ -51,6 +51,9 @@ navigation:
   - name: Costumer care
     url: 'http://costumer.myarching.link/'
     type: external
+  - name: MyArching Blog
+    id: 50ec7439-79ae-42c5-bf5c-c4504e8b9a6b
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d731eee-99dc-4fed-857b-b7bcccb98443.jpg
 title: Your Property Finder in Italy
