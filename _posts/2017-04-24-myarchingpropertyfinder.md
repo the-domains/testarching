@@ -9,15 +9,16 @@ publisher:
 keywords: []
 description: 'Our Blog Where you can find suggestion and sustain to your  search criteria '
 app_links: []
-isBasedOnUrl: 'http://myarching.blogspot.com/'
 title: Blog
-datePublished: '2018-08-13T07:20:57.377Z'
-dateModified: '2018-08-13T07:20:55.138Z'
+datePublished: '2018-08-13T07:26:47.404Z'
+dateModified: '2018-08-13T07:26:45.220Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-24-myarchingpropertyfinder.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-04-24T09:55:02.757Z'
+url: blog/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
