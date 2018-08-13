@@ -47,9 +47,6 @@ navigation:
   - name: Search and Purchase
     id: 1dcfbac9-43b6-4787-8543-3e2dfe5a0c52
     type: content
-  - name: MyArching Blog
-    url: 'http://myarching.blogspot.it/'
-    type: external
   - name: Costumer care
     url: 'http://costumer.myarching.link/'
     type: external
