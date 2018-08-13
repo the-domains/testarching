@@ -10,9 +10,9 @@ keywords: []
 description: 'Our Blog Where you can find suggestion and sustain to your  search criteria '
 app_links: []
 isBasedOnUrl: 'http://myarching.blogspot.com/'
-title: Blog
-datePublished: '2018-08-13T07:32:25.206Z'
-dateModified: '2018-08-13T07:32:22.872Z'
+title: MyArching Blog
+datePublished: '2018-08-13T07:46:31.781Z'
+dateModified: '2018-08-13T07:46:29.430Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-24-myarchingpropertyfinder.md
@@ -22,7 +22,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# Blog
+# MyArching Blog
 
 <article style=""><h1>MyArchingPROPERTYFINDER</h1><p>Our Blog Where you can find suggestion and sustain to your  search criteria </p></article>
 
