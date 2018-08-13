@@ -11,8 +11,8 @@ description: 'Our Blog Where you can find suggestion and sustain to your  search
 app_links: []
 isBasedOnUrl: 'http://myarching.blogspot.com/'
 title: Blog
-datePublished: '2018-08-13T07:29:58.285Z'
-dateModified: '2018-08-13T07:29:56.204Z'
+datePublished: '2018-08-13T07:32:25.206Z'
+dateModified: '2018-08-13T07:32:22.872Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-24-myarchingpropertyfinder.md
@@ -28,5 +28,9 @@ _type: MediaObject
 
 ![A place where dreaming is coming a true reality](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e2fd584-8a8f-4e80-aad6-9020f4e5812b.jpg)
 [L'AGOrà Project][0]
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FOEqKtgdgDj0%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOEqKtgdgDj0&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FOEqKtgdgDj0%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="true" style=""></iframe>
+
+
 
 [0]: http://myarching.link/lagora-lalbergo-arrivera
