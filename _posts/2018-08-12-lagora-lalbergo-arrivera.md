@@ -1,26 +1,13 @@
 ---
 inFeed: false
 description: >-
-  In this section you can find the first information on the buildings at L'Ago
-  that will be part of a sprad hotel project. Each building that is put up for
-  sale consists (depending on the size of the building), in a central core
-  consisting of a complete suite made of living room with at least a
-  kitchenette, a double bedroom and an exclusive bathroom. To this nucleus are
-  added other spaces consisting of a living room shared with all the other units
-  of teh building consisting of other junior suites without Kitchenette, or
-  double rooms, each with its own exclusive bethroom. Each property is connected
-  to other estate and shared building hosting services distributed in the
-  village such as Spa and wellness center, pool, restaurant, bicycle storage and
-  more, as well as the opportunity to participate with its own share in the
-  development of the agricoltural revaluation project that will make available
-  to a productive agricultural company the land recovered around the village for
-  the production of vegetable gardens, organic food and other recreational and
-  educational activities that can be purchased by guests of the resort. Below
-  are presented data, plan and other information of buildings partecipating to
-  the project; click on the links to discover them. As the project improves you
-  will find more information about each building and new buildings added.
-dateModified: '2018-08-13T07:30:59.859Z'
-datePublished: '2018-08-13T07:31:01.965Z'
+  L’AGOrà is a project that aim to turn a medieval village  in a stunning place
+  where to live or spend your holiday and even a place where to invest your
+  money in some building that are going to be restored and from which it is
+  possible to cover your holiday expences. For  more information on global
+  project you can look at L’AGOrà page.
+dateModified: '2018-08-13T08:04:32.672Z'
+datePublished: '2018-08-13T08:04:34.961Z'
 title: L’AGOrà - resort is coming up
 author:
   - name: MyArching / Massimiliano Lusetti Ingegnere
@@ -44,8 +31,11 @@ _type: MediaObject
 
 ## L'AGOrà - resort is coming up
 
-In this section you can find the first information on the buildings at L'Ago that will be part of a sprad hotel project. Each building that is put up for sale consists (depending on the size of the building), in a central core consisting of a complete suite made of living room with at least a kitchenette, a double bedroom and an exclusive bathroom. To this nucleus are added other spaces consisting of a living room shared with all the other units of teh building consisting of other junior suites without Kitchenette, or double rooms, each with its own exclusive bethroom. Each property is connected to other estate and shared building hosting services distributed in the village such as Spa and wellness center, pool, restaurant, bicycle storage and more, as well as the opportunity to participate with its own share in the development of the agricoltural revaluation project that will make available to a productive agricultural company the land recovered around the village for the production of vegetable gardens, organic food and other recreational and educational activities that can be purchased by guests of the resort. Below are presented data, plan and other information of buildings partecipating to the project; click on the links to discover them. As the project improves you will find more information about each building and new buildings added.
-[Building 36][0]
+L'AGOrà is a project that aim to turn a medieval village in a stunning place where to live or spend your holiday and even a place where to invest your money in some building that are going to be restored and from which it is possible to cover your holiday expences. For more information on global project you can look at[L'AGOrà page][0].
+
+In this section we will show you information about buildings at L'Ago that will be part of the spread hotel project. Each building that is put up for sale consists (depending on the size of the building), in a central core consisting of a complete suite made of living room with at least a kitchenette, a double bedroom and an exclusive bathroom. To this nucleus are added other spaces consisting of a living room shared with all the other units of the building consisting of other junior suites without Kitchenette, or double rooms, each with its own exclusive bathroom. Each property is connected to other estate and take part to shared building hosting services distributed in the village such as Spa and wellness center, pool, restaurant, bicycle storage and more, as well as the opportunity to participate with its own share in the development of the agricultural revaluation project that will make available to a productive agricultural company the land recovered around the village for the production of vegetable gardens, organic food and other recreational and educational activities that can be purchased by guests of the resort. Below are presented data, plan and other information of buildings participating to the project; click on the links to discover them. As the project improves you will find more information about each building and new buildings added.
+[Building 36][1]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/94965086-086b-4794-b6c7-72d2266b94c4.png)
 
-[0]: http://ita.myarching.link/lagora-edificio-36
+[0]: http://investitori.lago.property/ "L'AGOrà"
+[1]: http://ita.myarching.link/lagora-edificio-36
