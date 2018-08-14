@@ -16,8 +16,8 @@ description: >-
   headboard that allows you to have small balconies on each floor and at the
   same time remodel in a congruous manner the shape of the building creating
   three independent suites. Design by Flavio De Stasio:
-dateModified: '2018-08-14T22:46:27.805Z'
-datePublished: '2018-08-14T22:46:30.387Z'
+dateModified: '2018-08-14T22:48:21.764Z'
+datePublished: '2018-08-14T22:48:24.175Z'
 title: 'L’AGOrà: Building 36'
 author: []
 publisher: {}
@@ -33,7 +33,7 @@ _type: Blurb
 # L'AGOrà: Building 36
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af82750e-dc30-41b5-98af-14b86af64594.png)
 
-## Design 
+## Design
 
 The building is on three levels, originally a cellar was located on the ground floor and on upper floors there was a flat with access from the terrace open to via terraglie. The property includes a garden with upper part flat and a part with strips that slopes towards the driveway below. There are several superfetations that distort the appearance of the building. A balcony with a very heavy and invasive concrete structure where the first floor bathroom was built. The reinforced concrete structure has also caused damage to the historical wall structure due to the different flexibility and behavior on seismic actions. The project, as well as solving some distribution problems involves the demolition of not congruent additions made during past times and brings the building back to its ancient shape. The project recovers the demolished volumes by inserting an external open wood made staircase in the headboard that allows you to have small balconies on each floor and at the same time remodel in a congruous manner the shape of the building creating three independent suites. Design by Flavio De Stasio:
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/82a416b223dc3929a224d7ddd8c2ee83958e67e0.jpg)
@@ -47,4 +47,4 @@ The building is on three levels, originally a cellar was located on the ground f
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67d79b3d-4805-4e73-80d8-7fa51972b7d6.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ae2b9f6-2041-46ed-a970-f21a88adf0b4.jpg)
 
-Would you like to buy this building? Please, Ask us more detailed financial and technical information or plan a visit to L'Ago we'll be glad to organize for you your staying in L'Ago!
+Would you like to buy this building? Please, Ask us more detailed financial and technical information or plan a visit to L'Ago we'll be glad to organize for you your staying at L'Ago!
