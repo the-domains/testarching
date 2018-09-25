@@ -15,8 +15,8 @@ description: >-
   projects
 app_links: []
 title: MyArching Blog
-datePublished: '2018-08-13T08:37:32.144Z'
-dateModified: '2018-08-13T08:37:30.059Z'
+datePublished: '2018-09-25T15:57:36.623Z'
+dateModified: '2018-09-25T15:57:35.816Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-24-myarchingpropertyfinder.md
@@ -36,6 +36,8 @@ Suggestions and information on how to invest in Italy and on our ongoing project
 [L'AGOrà Project][0]
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FOEqKtgdgDj0%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOEqKtgdgDj0&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FOEqKtgdgDj0%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="true" style=""></iframe>
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F8HoQGuu7AmQ%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8HoQGuu7AmQ&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F8HoQGuu7AmQ%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="true" style=""></iframe>
 
 Our real estate revaluation project to allow you to invest in your holidays and profit from them.
 
