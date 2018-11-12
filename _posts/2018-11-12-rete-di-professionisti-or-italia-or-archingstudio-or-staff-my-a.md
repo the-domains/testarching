@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   If you like to have more information about our staff, click on our photo and
   lokk to each different profile
-dateModified: '2018-11-12T15:36:58.551Z'
-datePublished: '2018-11-12T15:36:59.270Z'
+dateModified: '2018-11-12T15:38:58.257Z'
+datePublished: '2018-11-12T15:38:59.094Z'
 title: MyArching Team
 author:
   - name: >-
@@ -27,13 +27,13 @@ author:
     url: 'https://www.archingstudio.org/prova'
 publisher: {}
 via: {}
-hasPage: true
+isBasedOnUrl: 'https://www.archingstudio.org/prova'
+hasPage: false
 sourcePath: >-
   _posts/2018-11-12-rete-di-professionisti-or-italia-or-archingstudio-or-staff-my-a.md
 starred: false
 datePublishedOriginal: '2018-11-12T15:21:42.047Z'
-url: rete-di-professionisti-or-italia-or-archingstudio-or-staff-my-a/index.html
-_type: Article
+_type: MediaObject
 
 ---
 ![If you like to have more information about our staff, click on our photo and lokk to each different profile](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc13304a-3e1c-4561-b641-2637843bef55.jpg)
