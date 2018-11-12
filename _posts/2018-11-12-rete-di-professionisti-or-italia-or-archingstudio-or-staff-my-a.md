@@ -6,8 +6,8 @@ description: >-
   countless possible solutions and combinations, the ones most convenient and
   suitable to satisfay our customers needs with a special care to the
   sustainability of the planned interventions.
-dateModified: '2018-11-12T16:43:40.337Z'
-datePublished: '2018-11-12T16:43:41.265Z'
+dateModified: '2018-11-12T16:46:21.763Z'
+datePublished: '2018-11-12T16:46:22.396Z'
 title: Staff
 author:
   - name: MyArching Staff Wellcome You
@@ -24,7 +24,7 @@ _type: MediaObject
 
 ---
 # Staff
-![If you like to have more information about our staff, click on our photo and lokk to each different profile](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc13304a-3e1c-4561-b641-2637843bef55.jpg)
+![Wellcome](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c52469f-60b3-4510-9601-456576137c9d.jpg)
 
 Design is the result of a synthesis of different needs; over the years we have studied and invested to develop skills necessary to identify, among the countless possible solutions and combinations, the ones most convenient and suitable to satisfay our customers needs with a special care to the sustainability of the planned interventions.
 
