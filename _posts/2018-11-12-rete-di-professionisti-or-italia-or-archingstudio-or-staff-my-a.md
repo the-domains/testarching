@@ -1,18 +1,33 @@
 ---
 inFeed: true
 description: >-
-  Rete di liberi professionisti in relatà; aumentata per condivisione competenze
-  e integrazione servizi rivolti alla valorizzazione degli immobili
-dateModified: '2018-11-12T15:27:31.772Z'
-datePublished: '2018-11-12T15:27:32.238Z'
-title: STAFF MY ARCHING
-author: []
+  If you like to have more information about our staff, click on our photo and
+  lokk to each different profile
+dateModified: '2018-11-12T15:36:46.624Z'
+datePublished: '2018-11-12T15:36:47.455Z'
+title: MyArching Team
+author:
+  - name: >-
+      La progettazione è il risultato di una sintesi di diverse esigenze, negli
+      anni ho studiato e investito per sviluppare le competenze necessarie per
+      individuare tra le innumerevoli soluzioni e combinazioni possibili, le più
+      convenienti ed adatte a soddisfare le esigenze dei miei clienti con un
+      occhio di riguardo alla sostenibilità degli interventi progettati.
+
+      Nei progetti di riqualificazione edilizia e nella riqualificazione
+      energetica l’equilibrio tra la performance tecnica e la convenienza
+      economica richiede un aggiornamento tecnologico continuo, la conoscenza
+      dell’andamento dei prezzi di mercato di ogni soluzione, la capacità di
+      adeguare le competenze consolidate a favore dell’innovazione.
+
+      La capacità di saper giustificare le scelte progettuali di una proposta su
+      misura attraverso un piano economico che attesti la convenienza delle
+      scelte è un’attività imprescindibile ed un vantaggio competitivo di chi si
+      avvale delle mie competenze.
+    url: 'https://www.archingstudio.org/prova'
 publisher:
-  url: 'https://www.archingstudio.org'
-  name: Rete Di Professionisti | Italia | Archingstudio
-  favicon: >-
-    https://static.wixstatic.com/media/38db50_6e6f41b865674b598431bf1165212f76.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/38db50_6e6f41b865674b598431bf1165212f76.png
-  domain: www.archingstudio.org
+  name: 'MyARCHING STAFF - '
+  url: 'https://www.archingstudio.org/prova'
 via: {}
 hasPage: true
 sourcePath: >-
@@ -23,6 +38,4 @@ url: rete-di-professionisti-or-italia-or-archingstudio-or-staff-my-a/index.html
 _type: Article
 
 ---
-<article style=""><h1>STAFF MY ARCHING</h1><p>Rete di liberi professionisti in relatà; aumentata per condivisione competenze e integrazione servizi rivolti alla valorizzazione degli immobili</p></article>
-
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc13304a-3e1c-4561-b641-2637843bef55.jpg)
+![If you like to have more information about our staff, click on our photo and lokk to each different profile](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc13304a-3e1c-4561-b641-2637843bef55.jpg)
