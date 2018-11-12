@@ -1,13 +1,13 @@
 ---
 inFeed: true
 description: >-
-  La progettazione è il risultato di una sintesi di diverse esigenze, negli anni
-  abbiamo studiato e investito per sviluppare le competenze necessarie per
-  individuare tra le innumerevoli soluzioni e combinazioni possibili, le più
-  convenienti ed adatte a soddisfare le esigenze dei nostri clienti con un
-  occhio di riguardo alla sostenibilità degli interventi progettati.
-dateModified: '2018-11-12T16:11:32.669Z'
-datePublished: '2018-11-12T16:11:34.049Z'
+  Design is the result of a synthesis of different needs; over the years we have
+  studied and invested to develop skills necessary to identify, among the
+  countless possible solutions and combinations, the ones most convenient and
+  suitable to satisfay our customers needs with a special care to the
+  sustainability of the planned interventions.
+dateModified: '2018-11-12T16:18:28.895Z'
+datePublished: '2018-11-12T16:18:30.286Z'
 title: Staff
 author:
   - name: MyArching Staff Wellcome You
@@ -26,10 +26,10 @@ _type: MediaObject
 # Staff
 ![If you like to have more information about our staff, click on our photo and lokk to each different profile](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc13304a-3e1c-4561-b641-2637843bef55.jpg)
 
-La progettazione è il risultato di una sintesi di diverse esigenze, negli anni abbiamo studiato e investito per sviluppare le competenze necessarie per individuare tra le innumerevoli soluzioni e combinazioni possibili, le più convenienti ed adatte a soddisfare le esigenze dei nostri clienti con un occhio di riguardo alla sostenibilità degli interventi progettati.
+Design is the result of a synthesis of different needs; over the years we have studied and invested to develop skills necessary to identify, among the countless possible solutions and combinations, the ones most convenient and suitable to satisfay our customers needs with a special care to the sustainability of the planned interventions.
 
-Nei progetti di riqualificazione edilizia e nella riqualificazione energetica l'equilibrio tra la performance tecnica e la convenienza economica richiede un aggiornamento tecnologico continuo, la conoscenza dell'andamento dei prezzi di mercato di ogni soluzione, la capacità di adeguare le competenze consolidate a favore dell'innovazione.
+In the redevelopment projects and in the energy redevelopment, balance between technical performance and economic convenience requires continuous technological updating, knowledge of market price trend for each solution, ability to adapt the consolidated skills in favor of innovation.
 
-La capacità di saper giustificare le scelte progettuali attraverso proposte su misura basate su piani economici che attestano la convenienza delle scelte suggerite è un'attività imprescindibile ed un vantaggio competitivo per chi si avvale delle nostre competenze.
+The ability to justify the design choices through tailored proposals based on economic plans attesting the convenience of suggested choices is an essential activity and a competitive advantage for our clients.
 
-Lo staff MyArching
+MyArching staff
