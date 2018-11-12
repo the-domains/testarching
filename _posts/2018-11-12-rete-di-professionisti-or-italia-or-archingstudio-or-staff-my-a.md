@@ -6,12 +6,12 @@ description: >-
   individuare tra le innumerevoli soluzioni e combinazioni possibili, le più
   convenienti ed adatte a soddisfare le esigenze dei nostri clienti con un
   occhio di riguardo alla sostenibilità degli interventi progettati.
-dateModified: '2018-11-12T15:54:57.096Z'
-datePublished: '2018-11-12T15:54:57.728Z'
+dateModified: '2018-11-12T16:05:28.162Z'
+datePublished: '2018-11-12T16:05:29.832Z'
 title: MyArching Team
 author:
   - name: MyArching Staff Wellcome You
-    url: 'https://www.archingstudio.org/prova'
+    url: 'https://www.archingstudio.org/myarchingstaff'
 publisher: {}
 via: {}
 isBasedOnUrl: 'https://www.archingstudio.org/prova'
