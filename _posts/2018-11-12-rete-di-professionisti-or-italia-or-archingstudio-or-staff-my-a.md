@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   If you like to have more information about our staff, click on our photo and
   lokk to each different profile
-dateModified: '2018-11-12T15:36:46.624Z'
-datePublished: '2018-11-12T15:36:47.455Z'
+dateModified: '2018-11-12T15:36:58.551Z'
+datePublished: '2018-11-12T15:36:59.270Z'
 title: MyArching Team
 author:
   - name: >-
@@ -25,9 +25,7 @@ author:
       scelte è un’attività imprescindibile ed un vantaggio competitivo di chi si
       avvale delle mie competenze.
     url: 'https://www.archingstudio.org/prova'
-publisher:
-  name: 'MyARCHING STAFF - '
-  url: 'https://www.archingstudio.org/prova'
+publisher: {}
 via: {}
 hasPage: true
 sourcePath: >-
