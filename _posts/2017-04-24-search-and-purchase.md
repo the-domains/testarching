@@ -1,7 +1,7 @@
 ---
 title: Search and Purchase
-datePublished: '2018-11-12T17:09:45.580Z'
-dateModified: '2018-11-12T17:09:45.235Z'
+datePublished: '2018-11-12T17:24:52.504Z'
+dateModified: '2018-11-12T17:24:52.294Z'
 publisher:
   name: Max Lusetti
 author: []
