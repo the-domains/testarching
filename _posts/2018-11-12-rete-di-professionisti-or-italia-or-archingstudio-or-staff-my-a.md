@@ -6,9 +6,9 @@ description: >-
   individuare tra le innumerevoli soluzioni e combinazioni possibili, le più
   convenienti ed adatte a soddisfare le esigenze dei nostri clienti con un
   occhio di riguardo alla sostenibilità degli interventi progettati.
-dateModified: '2018-11-12T16:05:28.162Z'
-datePublished: '2018-11-12T16:05:29.832Z'
-title: MyArching Team
+dateModified: '2018-11-12T16:11:32.669Z'
+datePublished: '2018-11-12T16:11:34.049Z'
+title: Staff
 author:
   - name: MyArching Staff Wellcome You
     url: 'https://www.archingstudio.org/myarchingstaff'
@@ -23,6 +23,7 @@ datePublishedOriginal: '2018-11-12T15:21:42.047Z'
 _type: MediaObject
 
 ---
+# Staff
 ![If you like to have more information about our staff, click on our photo and lokk to each different profile](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc13304a-3e1c-4561-b641-2637843bef55.jpg)
 
 La progettazione è il risultato di una sintesi di diverse esigenze, negli anni abbiamo studiato e investito per sviluppare le competenze necessarie per individuare tra le innumerevoli soluzioni e combinazioni possibili, le più convenienti ed adatte a soddisfare le esigenze dei nostri clienti con un occhio di riguardo alla sostenibilità degli interventi progettati.
