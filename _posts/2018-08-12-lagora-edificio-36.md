@@ -1,5 +1,5 @@
 ---
-inFeed: false
+inFeed: true
 description: >-
   The building is on three levels, originally a cellar was located on the ground
   floor and on upper floors there was a flat with access from the terrace open
@@ -16,8 +16,8 @@ description: >-
   headboard that allows you to have small balconies on each floor and at the
   same time remodel in a congruous manner the shape of the building creating
   three independent suites. Design by Flavio De Stasio:
-dateModified: '2018-08-14T22:48:21.764Z'
-datePublished: '2018-08-14T22:48:24.175Z'
+dateModified: '2018-11-17T10:21:05.562Z'
+datePublished: '2018-11-17T10:21:06.713Z'
 title: 'L’AGOrà: Building 36'
 author: []
 publisher: {}
@@ -27,7 +27,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2018-08-13T08:39:23.979Z'
 url: lagora-edificio-36/index.html
-_type: Blurb
+_type: Article
 
 ---
 # L'AGOrà: Building 36
